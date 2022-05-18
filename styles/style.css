@@ -86,6 +86,7 @@ html, body {
 }
 
 #main .a3 {
+  white-space: nowrap;
   color: white;
   text-decoration: none;
 }
